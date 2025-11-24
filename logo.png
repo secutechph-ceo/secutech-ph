@@ -1,0 +1,5 @@
+<svg width="120" height="120" viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">
+  <circle cx="60" cy="60" r="55" fill="#1976d2" stroke="#222" stroke-width="4"/>
+  <text x="60" y="70" text-anchor="middle" font-size="32" fill="#fff" font-family="Arial, sans-serif" font-weight="bold">SPH</text>
+  <text x="60" y="100" text-anchor="middle" font-size="14" fill="#fff" font-family="Arial, sans-serif">SECUTECH PH</text>
+</svg>
