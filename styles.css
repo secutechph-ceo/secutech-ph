@@ -8,7 +8,7 @@ header::before {
 	content: "";
 	position: absolute;
 	top: 0; left: 0; right: 0; bottom: 0;
-	background: rgba(26,35,126,0.7);
+	background: rgba(25, 32, 111, 0.7);
 	z-index: 0;
 }
 
